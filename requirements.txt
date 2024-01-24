@@ -1,0 +1,20 @@
+# GPU
+
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+# pip install -U albumentations[imgaug]
+
+
+# Kaggle dependency
+jupyter
+pandas
+numpy
+scikit-learn
+python-box
+matplotlib
+opencv-python
+PyYAML
+loguru
+# segmentation-models-pytorch==0.3.3
+
+
+# 3d ipyvolume==0.6.0 pydicom nibabel tqdm torch-summary pip install volumentations-3D
